@@ -2,3 +2,7 @@ title: Paul H Boardman
 description: ML Engineer
 theme: minima
 
+# Add this section to create a navigation menu
+nav:
+  - Home: /
+  - Projects: /projects
