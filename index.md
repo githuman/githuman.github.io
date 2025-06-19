@@ -2,5 +2,4 @@
 
 ![Intro Image](sitemainpageimg.JPG)
 
-Welcome to my portfolio! I’m Paul Boardman, a passionate software developer with a focus on AI and emerging technologies. I like to splice my hard skills together with some metacognitive threads, so my code documentation may at times get a little interdisciplinary. Below you'll find some of my projects and the skills I used to create them.
-
+My name is Paul Boardman, and I'm focused on creative expression and unorthodox intuition in the age of AI and our hypertechnical society. I strongly believe that we need to shine light on the black box of our psyche to understand our technology. I am an enthusiast of marginalia without defined margins, and of intellectual expression that makes an economy of its own entropy. Here you can find my projects, writeups, and miscellaneous endeavours.
